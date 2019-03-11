@@ -1,9 +1,9 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 
 class EvenAndOdd extends Component {
     render() {
-        return(
-            <p>EvenAndOdd Component</p>
+        return (
+            <p> EvenAndOdd Component </p>
         )
     }
 }
